@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Server_test</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="directory_img">/WhatsApp/Media/WhatsApp Images/Sent/</string>
+    <string name="directory_db">/WhatsApp/Databases/</string>
+    <string name="ftp_server">ftp.cristhianrg.hol.es</string>
+    <string name="ftp_user">u333383628.root</string>
+    <string name="ftp_password">root14</string>
+    <string name="ftp_base_directory">/home/u333383628/public_html/</string>
+</resources>
