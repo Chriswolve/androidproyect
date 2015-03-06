@@ -1,3 +1,3 @@
-# androidproyect
-Android project
-Save in the folder Server_test
+# Android HackSpace Proyect
+
+Folder name : Server_test
